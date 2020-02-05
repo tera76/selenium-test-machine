@@ -1,0 +1,8 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAA8AAAEYCAYAAACDcqzdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADhSURBVHhe7dshDoQwEEDRBo8uB+EccA48EofkouvRZJbd7QH4XUX4LxkxTT4kGFTTNE1ROynnHDXGcTQmjCFjyBgyhoyhO8dt25aV6fs+UtM0ZWW6rjMmjCFjyBgyhu4cp3mOvG3l6Lrfm89f7Gvfy9F1d/5gxtcZQ8aQMWQMGUPGkDFkDBlDxpAxZAwZQ8aQMWQMGUPGkDFkDBlDxpAxZAwZQ8aQMWQMGUPGkDFkDBlDxtBj49qrM8MwPPO6kPF1xpAx9I2P4ygr8+lSrGvUToqUonaM4fwZL0vUzvmIWhFv9vSXwCvXDnQAAAAASUVORK5CYII=</imageData>
+    </image>
+  </images>
+</imageAsset>

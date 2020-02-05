@@ -1,0 +1,24 @@
+pipeline {
+  agent {
+    node {
+      label 'c_centos6_jdk8_maven'
+    }
+
+  }
+  stages {
+    stage('Build & Deploy') {
+      agent {
+        node {
+          label 'c_centos6_java8_maven'
+        }
+
+      }
+      steps {
+        withMaven(publisherStrategy: 'IMPLICIT', globalMavenSettingsConfig: 'fc103442-cdf4-4988-904e-06bfc702f4e1') {
+          sh 'mvn clean deploy'
+        }
+
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>11</x>
+        <y>9</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABJSURBVDhPY/j//8x/SrBtw30MDDbUmIE8TH9DKcE4DcXmAmLF8BrKMPM/GMMUEys2auiooUPeUGRMihhOQynBWA3FJkgZvv8fAJGX0bs23vquAAAAAElFTkSuQmCC</imageData>
+    </image>
+    <image>
+      <matchAccuracy>90</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>0</x>
+        <y>0</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABkSURBVDhP7dWxCYBAEETR7cnY3mzDnuzhShlhQfnBBJ7LgcgFL1nwDxcZ69Y0UkiHKlyUcmCJd74zUOGiZF/Qc3NRugdiV7o+fHpzUZoDNkpzwEbpRwPUc3NRyoEKF6XBP5ymEwjslTNjqx2VAAAAAElFTkSuQmCC</imageData>
+    </image>
+  </images>
+</imageAsset>

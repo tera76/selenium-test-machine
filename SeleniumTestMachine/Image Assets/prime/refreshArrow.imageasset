@@ -1,0 +1,13 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>70</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>12</x>
+        <y>12</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE4SURBVEhL7ZPNasJAFIX7iG66cu9DFBddBLrxEVooFcGdCxHd2JW2YFduBLEFBUWLPxnFn7Yh3nKu3jDG0aiYjTjwkcnJnXNuJpMb27YpTK4BgewNaLS6ZL280+19jiLxLIM5NDwzrfGzM6Bab28Y+8Ez1JjW6hgD0J2YxxJFarRt+nNcGowX9Jyvsf6Q+uCaoDcxBmALxNxdLgljPPsl113N5Yoa1Jo8BGOAdP/VUWyUKX3yfdQqUOt7whoGNNSaPIStgE6vzwuBDLkH6de6h2h+D52DAtC5aJjjjQqVpqf5PXQO2qJac8TGVrJC8x+HtdnC4ZqjtwjIR44/vbGZadw9lrnmpI+sH1OE9NV8bUvUHU49c9ScdExBqD+agO6wBXoQ5tCCOhf2BpyDa0AgFxCglKLwUPQPMKbQDz/hYmoAAAAASUVORK5CYII=</imageData>
+    </image>
+  </images>
+</imageAsset>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="OFF">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<!-- For bright theme -->
+			<!-- <PatternLayout pattern="%highlight{%d{HH:mm:ss.SSS} [%-3p{length=3}] 
+				%C{1}.%M() - %m%n}{FATAL=red, ERROR=red, WARN=yellow, INFO=blue, DEBUG=green, 
+				TRACE=black}" /> -->
+			<!-- For dark theme -->
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} %highlight{[%-3p{length=3}]}{FATAL=blinking bright red, ERROR=bright red, WARN=bright yellow, INFO=bright cyan, DEBUG=bright green, TRACE=bright white} %C{1}.%M() - %m%n" />
+			<!-- Without color -->
+			<!-- <PatternLayout pattern="%d{HH:mm:ss.SSS} [%-3p{length=3}] %C{1}.%M() 
+				- %m%n" /> -->
+		</Console>
+
+		<File name="ReportAppender" fileName="C:\temp\logs\prime_results.csv">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS}, %m%n" />
+		</File>
+	</Appenders>
+
+	<Loggers>
+		<Logger name="com.eidosmedia.eom.EomEntityResolver" level="TRACE" additivity="false">
+			<AppenderRef ref="Console" />
+		</Logger>
+		<Logger name="ReportLogger" level="TRACE" additivity="false">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="ReportAppender" />
+		</Logger>
+		<Root level="TRACE" additivity="false">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+
+</Configuration>

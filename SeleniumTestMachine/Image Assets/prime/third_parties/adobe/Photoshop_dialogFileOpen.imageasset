@@ -1,0 +1,22 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>10</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>41</x>
+        <y>10</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAFIAAAAUCAYAAAAeLWrqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEUSURBVFhH7ZJLCsMwDER7iJBLmOzyX+T8uZWLDC5CtdxpsJOUajEMGU0EfujhnPNcTdP4bdv8six+XVfzhBMf4sS5JUFS2ZSXgSwkCOQ8z6Fsrjt8kciyf3b4Is/Qvu8vpeZ31m1ASni/BhMCOU1TKNfyCE3Lybl4L5XzjOc1Hb5IZNlR1x4bczk/msv9JR0COY5j+KGWx4dquZzzXCrXl/tLOgQSXXbU6aG5XM61XNun9Uo6fJG1FR+b+tZm3+Y1dRuQJHpwlJbnZjyTHf5dQxDIYRhC+SqPIND+FQ5fJLKslhNIpHelwxdpystAFhIEsu/7UDbX/SPItm1913WhbEqL+BAnzu0NJIlKRNyUloTonPNPunOveqNgC+cAAAAASUVORK5CYII=</imageData>
+    </image>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>40</x>
+        <y>9</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAE8AAAASCAYAAAAaJIOvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI/SURBVFhH7ZYxa+JgHMbvQwh+CGeNOqhVunlO2oPzQOE4LoVScBDBji2cghlaqIMHyZAODnHIkA4ZckOWfKvn/u+bRFNjcqFVIlyGh4f3fZ/8Iz+fGD8VCgX4yufzyOVymSLE+AR5beGxg2aziW63mylCjE8Q4BYeI1ur1VCpVFCtVjM/4IwP43QQHgtkilcG7wOKhFcul3kg82iPbV6SAf+zxzbv1Lr4IWFj2nAch+uPrmDy5XD2HJUevM4cG9uG/nSLzgWtL4e4ezHhmL9xfSh/hoqEJwgCD5zK+0sD9voBjTf7Q6yoiS8TWs80OPYrNMNrprXGA7VSEK4wUXRYXlstTcKQXb+fN1e4pS/lX5/jIx7bvCQD3uvzjQPj8XNo/25tw1j2UZ5vCIaOp+El7V9R3oaljtCRdJjqFN8YmEYfkk7tlWgOzxtYXlOe9pevDu03Iu9/DI+EVyqVeOhUPtNcePv7Uw9eiTXJUiD652ytzfh1/m+kL0sRQ/kb2XL39+Yf0yPhJR3wXncf23v+2O72B/yxVce05jBkiP55AJ6+qIfn7uVFheDJYjh3RI9t3knVnkFjL4zHG7TrtG4NMFXZC2PF2+M2ScWoxc5EPNNvmfE8QHuhU0bF9Gud5rQgLjTIMz9P8Lz5ImsewQvd94hKDx6p/n0BLfBXxdJljHveOYNBcLcvBmppj1/Xw1jevTAcy8Bq5OXPBV6xWOSB1PyXC+Nn0nwKHtu8JANO5oEmJcqn4LHNyxSvHbwC/gIsqZnuq7x0WgAAAABJRU5ErkJggg==</imageData>
+    </image>
+  </images>
+</imageAsset>

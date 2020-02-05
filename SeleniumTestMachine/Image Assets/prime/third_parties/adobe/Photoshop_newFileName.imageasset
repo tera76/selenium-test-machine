@@ -1,0 +1,13 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>34</x>
+        <y>13</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAEMAAAAZCAYAAABq35PiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKJSURBVFhH7ZehlqswEIb3mfoaPAAvEIVbhcKhUH0BFKoOhcKhUHWoKFxUVBzn/DsTSkkK7e3u5dye7UX85yyTfyeTj5BJPw6HA3aN2mE42mE42mE42mE42mE42mE4+nUwslZDt9nq2M9UQg4SJf29hFFKDLL0Y7d6xvNNneQA0xWrY67eDkZJC5fl+tisuUg3/mYwYjRKo83WxhzFDZRukd3E3wxGhlY/ASNroX8ljKnwuEAjNcwwYGDpHm0RXX28EBt3dckzL5Jh3XhI02e1DiNEWkloM/kNtKyQBq7n4itbSG283MO2O4PpGhijcC4zCC4iEMjqnsAoNMnkY63vjMUin94ZgY0Z1eKUhDYWiAwVvZRBNUgmX5Ci7qlGdUZ5/BxrtN4K/fYwFOrI8VgFOHUDFZ86sY1hHM8w7FvsgoTOpgFdMT5bYFRz5HlYm58Zc0LPRxK0O3zvtjD4WTWx53HHrDcYX5a/Qyf9QxhL77YwuE37378v672Ta9Rfwgiq27f9Whh/vLP8GEbRURe494+j8jOd1t458DoYXItqEs+zkKjpkOxRi5WxhzAOBTpjiPbcEj1FfPreLuZ1MOwBas7IFweoK4GqHz+ZYDH2EAYderQ7NLXKvj0hjcZ2xa0yyRv01MuXSb8DQ1CL4xxHhPQcCmFzLRZp3yZBO/L8IYQIbJx9/Btmnl/Qp0L3Bi1R54nNyfEwSnGqCsSTL6IauXZZI0/GObnbiU+e5wEMVpiWaN0LFMnQhE0RP6Trx0krZ1BAb11NefvaFryAYe8P6jp3X186RkbXdI7RrkmvXr50dXR9v+RkGQ3Z5BBXDylMUXXKuZzxmhT5Ctty78L4H7XDcLTDuOqAL/Mel/L84nhvAAAAAElFTkSuQmCC</imageData>
+    </image>
+  </images>
+</imageAsset>

@@ -1,0 +1,13 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>15</x>
+        <y>12</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAYAAADtaU2/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABlSURBVEhL7c+xDcAwCETR7MggVHRsxEzMQuRIaRwoLBw7Uih+Q3FPHABgOyp4Wd+CVTWVt9kXwsxsRDRcGm4jiDhcwVEFXxU8UsFRIZzJ2+xz4dmJyOP2OtzQ5fCNbvk46m8w2AlmBBus4/GOcwAAAABJRU5ErkJggg==</imageData>
+    </image>
+  </images>
+</imageAsset>

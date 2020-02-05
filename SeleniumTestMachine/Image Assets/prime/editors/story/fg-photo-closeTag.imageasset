@@ -1,0 +1,13 @@
+<imageAsset version="1">
+  <images>
+    <image>
+      <matchAccuracy>60</matchAccuracy>
+      <useClickPosition>false</useClickPosition>
+      <clickPosition>
+        <x>33</x>
+        <y>8</y>
+      </clickPosition>
+      <imageData>iVBORw0KGgoAAAANSUhEUgAAAEIAAAAQCAYAAACiEqkUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHaSURBVFhH7Zc7jsIwEIZzDCQKCiROABE3coVAAmqO4IKCI1BQuKSnoCASHQUdfQ4x67HH9jgxu8sqYaWIkX7kjB+a+TwxTgYfM5YEcTweYbPZdFq73Y6ytZadTidqWjscDtDv92G9Xndak8kEFosFZV0B4SCcz2coy7IBFSDzDLJMgEr2/16FzEGodN9f9Hg8YDqdwmq1Mrl7EM1D0Cok5EKl+17UayBwA36Gf7lcYDAYmPzNGdEKhPIOIsNq0MolFL46tIR8GqhJWGqANNclH/tzkAXNUcKuaWTXVMI903zcED8mzL1erwFEOxBIrCIwkVwW1m+Cfw7CgsNnpWHacZEf55t1Q79f1/h5RWCbgcOYaJ0IRK/XawcCioFQggXDAg27FxLmr4CbF/ndumx9Kw3GV58D4XxuTOiLQAyHQ7jdbjSoYT2rCPR/UxF+XKUiaiCarIjZbAaj0agdGNGOYdC0+zpI4QONZUDowKN3nPx1ELrNzwi28zjezzfgaQwDF4HAH6kPodZgpITBR+UaFCXcsmog0FqHwXeOn/oVvRNE9PfJL1Rvr4x/lLtQLZdLk3vtiu1gpK6lXdJ4PIb5fE5ZaxBIpmr7/T75odIlbbdbytba5zPcGMAXLghIm42B1xAAAAAASUVORK5CYII=</imageData>
+    </image>
+  </images>
+</imageAsset>
