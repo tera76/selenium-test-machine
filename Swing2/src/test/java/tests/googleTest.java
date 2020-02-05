@@ -1,8 +1,5 @@
 package tests;
 
-import environment.EnvironmentManager;
-import environment.RunEnvironment;
-
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -11,7 +8,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import com.selenium.test.environment.EnvironmentManager;
+import com.selenium.test.environment.RunEnvironment;
 import com.selenium.test.google.wrappers.googlePage;
+
 import static org.junit.Assert.assertEquals;
 
 import java.net.MalformedURLException;
